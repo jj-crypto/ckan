@@ -37,7 +37,7 @@ pathtools==0.1.2          # via watchdog
 pbr==5.5.1                # via sqlalchemy-migrate
 polib==1.0.7              # via -r requirements-py2.in
 psycopg2==2.8.2           # via -r requirements-py2.in
-pygments==2.5.2           # via weberror
+pygments==2.7.4           # via weberror
 pyjwt==1.7.1              # via -r requirements-py2.in
 pylons==0.9.7             # via -r requirements-py2.in
 pyparsing==2.4.7          # via packaging
@@ -64,7 +64,7 @@ sqlparse==0.3.0           # via -r requirements-py2.in, sqlalchemy-migrate
 tempita==0.5.2            # via pylons, sqlalchemy-migrate, weberror
 tzlocal==1.3              # via -r requirements-py2.in
 unicodecsv==0.14.1        # via -r requirements-py2.in
-urllib3==1.25.11          # via requests
+urllib3==1.26.5          # via requests
 watchdog==0.10.3          # via werkzeug
 webassets==0.12.1         # via -r requirements-py2.in
 webencodings==0.5.1       # via bleach
