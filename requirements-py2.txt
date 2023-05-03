@@ -16,7 +16,7 @@ dominate==2.4.0           # via -r requirements-py2.in
 feedgen==0.9.0            # via -r requirements-py2.in
 flask-babel==0.11.2       # via -r requirements-py2.in
 flask-multistatic==1.0    # via -r requirements-py2.in
-flask==1.1.1              # via -r requirements-py2.in, flask-babel, flask-multistatic
+flask==2.2.5              # via -r requirements-py2.in, flask-babel, flask-multistatic
 formencode==2.0.0         # via pylons
 funcsigs==1.0.2           # via beaker
 future==0.18.2            # via -r requirements-py2.in
