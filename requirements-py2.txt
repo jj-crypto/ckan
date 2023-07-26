@@ -8,7 +8,7 @@ alembic==1.0.0            # via -r requirements-py2.in
 babel==2.7.0              # via -r requirements-py2.in, flask-babel
 beaker==1.11.0            # via pylons
 bleach==3.3.0             # via -r requirements-py2.in
-certifi==2020.6.20        # via requests
+certifi==2023.7.22        # via requests
 chardet==3.0.4            # via requests
 click==7.1.2              # via -r requirements-py2.in, flask, rq
 decorator==4.4.2          # via pylons, sqlalchemy-migrate
