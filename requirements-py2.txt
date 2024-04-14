@@ -20,7 +20,7 @@ flask==1.1.1              # via -r requirements-py2.in, flask-babel, flask-multi
 formencode==2.0.0         # via pylons
 funcsigs==1.0.2           # via beaker
 future==0.18.2            # via -r requirements-py2.in
-idna==2.10                # via requests
+idna==3.7                # via requests
 itsdangerous==1.1.0       # via flask
 jinja2==2.11.3            # via -r requirements-py2.in, flask, flask-babel
 lxml==4.6.2               # via feedgen
