@@ -77,3 +77,4 @@ zope.interface==4.7.2     # via -r requirements-py2.in, repoze.who, repoze.who-f
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
