@@ -72,7 +72,7 @@ weberror==0.13.1          # via pylons
 webhelpers==1.3           # via -r requirements-py2.in, pylons
 webob==1.0.8              # via -r requirements-py2.in, pylons, repoze.who, repoze.who-friendlyform, weberror, webtest
 webtest==1.4.3            # via -r requirements-py2.in, pylons
-werkzeug[watchdog]==0.16.1  # via -r requirements-py2.in, flask
+werkzeug==3.0.6  # via -r requirements-py2.in, flask
 zope.interface==4.7.2     # via -r requirements-py2.in, repoze.who, repoze.who-friendlyform
 
 # The following packages are considered to be unsafe in a requirements file:
