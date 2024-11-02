@@ -58,7 +58,7 @@ watchdog==1.0.2           # via werkzeug
 webassets==0.12.1         # via -r requirements.in
 webencodings==0.5.1       # via bleach
 webob==1.8.6              # via repoze.who
-werkzeug[watchdog]==1.0.0  # via -r requirements.in, flask
+werkzeug==3.0.6  # via -r requirements.in, flask
 zope.interface==4.7.2     # via -r requirements.in, repoze.who
 
 # The following packages are considered to be unsafe in a requirements file:
