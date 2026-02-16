@@ -12,9 +12,9 @@
     "gulp-rename": "^2.0.0",
     "gulp-sourcemaps": "^2.6.5",
     "jquery": "^3.5.0",
-    "less": "^3.11.2",
+    "less": "^3.12.0",
     "moment": "^2.24.0",
-    "qs": "^6.9.4"
+    "qs": "^6.14.2"
   },
   "devDependencies": {
     "cypress": "^4.12.1",
